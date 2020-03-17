@@ -1,4 +1,4 @@
-# hymusic
+# nmmusic
 
 ## Project setup
 ```
